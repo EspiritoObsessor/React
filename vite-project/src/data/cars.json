@@ -1,0 +1,27 @@
+[
+    {
+        "carro":    "Fiat Poggers",
+        "placa":    "DXO-1290",
+        "qtdRodas": 4
+    },
+    {
+        "carro":    "Romero Britis",
+        "placa":    "SEX-6969",
+        "qtdRodas": 5
+    },
+    {
+        "carro":    "Arnaldo Collins",
+        "placa":    "JNL-1539",
+        "qtdRodas": 4
+    },
+    {
+        "carro":    "Bulbos",
+        "placa":    "POP-4375",
+        "qtdRodas": 4
+    },
+    {
+        "carro":    "Jaguar Jemmers",
+        "placa":    "DASA-1923",
+        "qtdRodas": 3
+    }
+]

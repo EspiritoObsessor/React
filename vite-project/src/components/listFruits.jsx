@@ -11,7 +11,8 @@
                 key={fruit.id}
                 style={{
                     color: fruit.isFruit ? 'red' : 'green'
-                }} 
+                }}
+                className="flex gap-5"
             >
                 <h2>{fruit.nome}</h2>
                 <p>{fruit.fruta}</p>
@@ -19,7 +20,7 @@
         )
 
         return (
-            <ul>{frutas}</ul>
+            <ul className="flex flex-col items-center">{frutas}</ul>
         )
     }
 

@@ -1,7 +1,7 @@
     const Header = () => {
         return (
-            <div>{import.meta.env.VITE_API_URL}</div>
+            <div className="text-lightGray text-3xl underline">{import.meta.env.VITE_API_URL}</div>
         )
     }
 
-    export default Header
+    export default Header;
