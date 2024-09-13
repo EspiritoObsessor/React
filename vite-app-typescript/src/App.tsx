@@ -1,9 +1,8 @@
-// import { useState } from 'react'
 import Header from "./components/header";
 import ListFruits from "./components/listFruits";
+import ListCars from "./components/listCars";
 
-import './App.css';
-import './scss/main.scss';
+import './App.css'
 
 function App() {
 
@@ -11,6 +10,7 @@ function App() {
     <>
       <Header />
       <ListFruits />
+      <ListCars />
     </>
   )
 }
